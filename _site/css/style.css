@@ -343,7 +343,7 @@ ul {
         .single .article .read-time {
           margin-bottom: 40px; } }
     .single .article .content {
-      font-size: 18px;
+      font-size: 14px;
       line-height: 170%;
       padding-left: 15px;
       padding-right: 15px;
@@ -351,7 +351,7 @@ ul {
       padding-bottom: 10px; }
       @media (min-width: 768px) {
         .single .article .content {
-          font-size: 24px;
+          font-size: 18px;
           padding-left: 30px;
           padding-right: 30px;
           padding-top: 40px;
